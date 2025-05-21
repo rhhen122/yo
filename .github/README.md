@@ -9,3 +9,5 @@ curl -s https://raw.githubusercontent.com/rhhen122/yo/refs/heads/master/.github/
 curl -s https://raw.githubusercontent.com/rhhen122/yo/refs/heads/master/.github/zsh-install.sh | zsh
 ```
 made by roky henderson (:
+
+tip: you can change the name it calls you in the /src/main.rs file!

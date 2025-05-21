@@ -8,3 +8,4 @@ curl -s https://raw.githubusercontent.com/rhhen122/yo/refs/heads/master/.github/
 # For Zsh shells
 curl -s https://raw.githubusercontent.com/rhhen122/yo/refs/heads/master/.github/zsh-install.sh | zsh
 ```
+made by roky henderson (:

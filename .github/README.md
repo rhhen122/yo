@@ -1,8 +1,20 @@
+<div align="center">
+
 # yo
 <img src="image.png">
+
+<br>
+
 yo gives you a nice lil message.
 
+<br>
+
 <img src="https://badgen.net/static/Made%20with/Rust/orange?icon=https://upload.wikimedia.org/wikipedia/commons/archive/d/d5/20160221220028%21Rust_programming_language_black_logo.svg">
+|
+<img src="https://badgen.net/static/Awesomely/Does%20Nothing%20Important!/green?icon=awesome">
+</div>
+
+<br>
 
 ```bash
 # For Bash shells

@@ -2,12 +2,12 @@ use colored::Colorize;
 fn main() {
     // Config
     let name = "bro or bruz (:"; // Change what it calls you.
-    let credit = false; // Adds Credit from me (:
+    let credit = true; // Adds Credit from me (:
     let color = true; // Makes the 'Yo, ' Yellow.
 
 
 
-    let creditmsg = " - Made by Roky Henderson";
+    let creditmsg = "☁️";
 
     if credit == true {
         if color == true {

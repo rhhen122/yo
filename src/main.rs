@@ -1,13 +1,14 @@
+// Thanks Helix Editor for making this project so damn awesome todo!!!
 use colored::Colorize;
 fn main() {
     // Config
-    let name = "bro or bruz (:"; // Change what it calls you.
+    let name = "my gendered or non-gendered homies"; // Change what it calls you.
     let credit = true; // Adds Credit from me (:
     let color = true; // Makes the 'Yo, ' Yellow.
 
 
 
-    let creditmsg = "☁️"; // Change the credit, the thing at the end.
+    let creditmsg = "\n From Rust! ⚙️"; // Change the credit, the thing at the end.
 
     if credit == true {
         if color == true {
